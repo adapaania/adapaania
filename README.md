@@ -34,7 +34,7 @@ I'm a **Data Science & Database student** passionate about turning raw data into
 
 ## 🎯 Currently
 
-- 📚 Studying Data Science / [Your Degree, e.g. BSc Computer Science]
+- 📚 Pursuing a Master's in Computer Science at the Stevens Institute of Technology
 - 🔍 Open to **DBA**, **Data Science**, and **ML** internships & graduate roles
 - 🌱 Building out my SQL portfolio and deepening knowledge of database design
 
