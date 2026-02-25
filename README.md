@@ -41,7 +41,7 @@ I'm a **Data Science & Database student** passionate about turning raw data into
 ---
 
 ## 📫 Connect with Me
-
+🌐 **Portfolio:** [github.com/adapaania/portfolio](https://github.com/adapaania/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aania-adap-aab93a237/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adapaania1@gmail.com)
 
