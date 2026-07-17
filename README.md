@@ -26,9 +26,11 @@ I'm a **Data Science & Database student** passionate about turning raw data into
 
 | Project | Description | Tech |
 |---|---|---|
+| [CreditLens](https://github.com/adapaania/credit-lens) | Agentic RAG app for commercial credit analysis with source-cited 10-K answers and memo drafting | Python, FastAPI, Next.js, LangGraph, Qdrant |
 | [Credit Risk Analysis](https://github.com/adapaania/credit-risk-analysis) | Predicting loan default risk using classification models | Python, Scikit-learn, Pandas |
-| [ML From Scratch](https://github.com/adapaania/ml-from-scratch) | Implementing core ML algorithms from the ground up | Python, NumPy |
-| [Data Visualisation](https://github.com/adapaania/data-visualisation) | Visual storytelling with real-world datasets | Python, Matplotlib, Seaborn |
+| [Data Visualisation](https://github.com/adapaania/data-visualisation) | Portfolio of visual analytics projects across Python, R, Tableau, and MATLAB | Python, R, Tableau, MATLAB |
+| [FinWise AI Engineer Challenge](https://github.com/adapaania/The-AI-Engineer-Challenge) | Domain-scoped finance and fintech concept explainer with live app deployment | Next.js, TypeScript, LLMs |
+| [PrepInsta Data Analysis Internship](https://github.com/adapaania/PrepInsta-Data-Analysis-Internship) | Data analysis internship projects and practice work | Python, Data Analysis |
 
 ---
 
