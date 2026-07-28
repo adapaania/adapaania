@@ -1,51 +1,57 @@
 # Hi, I'm Aania 👋
 
-### Data Science & Database graduate student building reliable, decision-ready data products
+### Aspiring AI Engineer building grounded, data-driven intelligent systems
 
-I'm pursuing an **M.S. in Computer Science at Stevens Institute of Technology**, with a focus on database systems, machine learning, and applied AI. I enjoy taking projects from raw data and schema design through analysis, modeling, APIs, and clear business-facing outputs.
+I'm pursuing an **M.S. in Computer Science at Stevens Institute of Technology**, focused on building practical AI systems that connect models with reliable data, retrieval, evaluation, and user-facing applications.
 
-I'm currently exploring **database administration, data science, and machine learning** internship and graduate opportunities.
+My current work centers on **LLM applications, retrieval-augmented generation, agentic workflows, and machine learning systems**. I'm seeking AI engineering, machine learning, and applied AI internship and graduate opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aania-adap-aab93a237/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adapaania1@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_projects-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/adapaania/portfolio)
 
-## Selected projects
+## Featured AI project
 
 ### [CreditLens](https://github.com/adapaania/credit-lens)
 
-An agentic RAG application for commercial credit analysis. It retrieves evidence from SEC 10-K filings, produces source-cited answers, and helps draft structured credit memos.
+An agentic RAG system for commercial credit analysis. CreditLens ingests SEC 10-K filings, retrieves relevant evidence through vector search, generates source-cited answers, and orchestrates structured credit memo drafting.
 
 `Python` `FastAPI` `Next.js` `LangGraph` `Qdrant`
 
+**AI engineering focus:** document ingestion · embeddings and retrieval · grounded generation · agent orchestration · evaluation · API design
+
+## More projects
+
 ### [Credit Risk Modeling & Loan Default Prediction](https://github.com/adapaania/credit-risk-analysis)
 
-An end-to-end classification project covering exploratory analysis, feature engineering, preprocessing, model comparison, and evaluation for loan default risk.
+An end-to-end machine learning pipeline covering exploratory analysis, feature engineering, preprocessing, model comparison, and evaluation for loan default prediction.
 
 `Python` `scikit-learn` `pandas` `Jupyter`
 
 ### [Data Visualization Portfolio](https://github.com/adapaania/data-visualisation)
 
-A collection of visual analytics work across multiple tools, focused on turning complex datasets into understandable and useful stories.
+A collection of visual analytics projects focused on turning complex datasets into clear, decision-ready insights.
 
 `Python` `R` `Tableau` `MATLAB`
 
-## Technical toolkit
+## AI engineering toolkit
 
-- **Data & databases:** SQL, PostgreSQL, pandas, NumPy
-- **Machine learning:** scikit-learn, classification, feature engineering, model evaluation
-- **Applied AI:** retrieval-augmented generation, vector search, agentic workflows
-- **Development:** Python, R, FastAPI, Jupyter, Git, GitHub
-- **Visualization:** Tableau, MATLAB, Python, R
+- **LLM systems:** retrieval-augmented generation, agentic workflows, prompt design, grounded generation
+- **Retrieval & data:** Qdrant, vector search, document ingestion, SQL, PostgreSQL
+- **Machine learning:** scikit-learn, feature engineering, classification, model evaluation
+- **Backend & applications:** Python, FastAPI, REST APIs, Next.js
+- **Data tooling:** pandas, NumPy, Jupyter, R, Tableau
+- **Engineering workflow:** Git, GitHub, modular pipelines, evaluation harnesses
 
 ## What I'm working on
 
-- Strengthening my SQL, database design, and database administration portfolio
-- Building applied AI systems with grounded retrieval and measurable evaluation
-- Turning technical analyses into clear, decision-focused deliverables
+- Building reliable RAG and agentic systems over real-world document collections
+- Improving retrieval quality, grounding, observability, and evaluation
+- Designing APIs and interfaces that turn AI capabilities into useful products
+- Strengthening the data and database foundations behind production AI systems
 
 ## Let's connect
 
-I'm happy to connect about database, data science, machine learning, and applied AI opportunities.
+I'm happy to connect about AI engineering, LLM applications, machine learning systems, and applied AI opportunities.
 
 **[LinkedIn](https://www.linkedin.com/in/aania-adap-aab93a237/) · [Email](mailto:adapaania1@gmail.com) · [Portfolio](https://github.com/adapaania/portfolio)**
