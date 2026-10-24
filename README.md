@@ -8,7 +8,7 @@ My current work centers on **LLM applications, retrieval-augmented generation, a
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aania-adap-aab93a237/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adapaania1@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_projects-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/adapaania/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_projects-181717?style=flat-square&logo=github&logoColor=white)]([https://github.com/adapaania/portfolio](https://adapaania.github.io/portfolio/))
 
 ## Featured AI project
 
